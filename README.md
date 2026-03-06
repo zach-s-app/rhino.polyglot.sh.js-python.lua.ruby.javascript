@@ -1,0 +1,2 @@
+# rhino.polyglot.sh.js-python.lua.ruby.javascript
+you will need to well get the jars this project was made for fun but can be useful for all yall polyglot users or if you just like to have fun also btw yes ik this was vibe coded but the .sh is updated without AI but ya also this thing is made for fun and works with modern rhino + luaj + jruby and + modern rihon and also do not forget jython. . . .
